@@ -1,0 +1,12 @@
+Please enter correct booking details for Nick : seat is not enough
+Please enter correct booking details for Nick : No such flight number
+Please enter correct booking details for Nick : invalid card
+Please enter correct booking details for Nick : seat is not enough
+Please enter correct booking details for Nick : No such flight number
+Please enter correct booking details for Nick : invalid card
+Please enter correct booking details for Nick : No such flight number
+Please enter correct booking details for Nick : seat is not enough
+Please enter correct booking details for Nick : invalid card
+Please enter correct booking details for Nick : invalid card
+Please enter correct booking details for Nick : No such flight number
+Please enter correct booking details for Nick : seat is not enough
